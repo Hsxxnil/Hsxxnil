@@ -17,6 +17,7 @@ Hi there 👋🏻
 
 ## Skills 💪🏻
 
+#### 🌐 Languages & Frameworks  
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=for-the-badge&logo=gin&logoColor=white)
 ![Gorm](https://img.shields.io/badge/-Gorm-00ADD8?style=for-the-badge&logo=gorm&logoColor=white)
@@ -24,9 +25,23 @@ Hi there 👋🏻
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![PrimeNG](https://img.shields.io/badge/-PrimeNG-00B5CE?style=for-the-badge&logo=primeng&logoColor=white)
+
+#### ☁️ Cloud & Others
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
+![Google Maps API](https://img.shields.io/badge/-Google%20Maps%20API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Maps](https://img.shields.io/badge/-Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/-YOLOv8-01B5D6?style=for-the-badge&logo=opencv&logoColor=white)
+
+#### 🛠️ Dev Tools & Platforms
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ## Contact 📫
 
