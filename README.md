@@ -22,9 +22,10 @@ Hi there 👋🏻
 ![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=for-the-badge&logo=gin&logoColor=white)
 ![Gorm](https://img.shields.io/badge/-Gorm-00ADD8?style=for-the-badge&logo=gorm&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![PrimeNG](https://img.shields.io/badge/-PrimeNG-00B5CE?style=for-the-badge&logo=primeng&logoColor=white)
+![PrimeNG](https://img.shields.io/badge/-PrimeNG-212C32?style=for-the-badge&logo=primeng&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-00BCFF?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### ☁️ Cloud & Others
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
