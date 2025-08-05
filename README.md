@@ -13,7 +13,7 @@ Hi there 👋🏻
 | CRM Backend | [CRM APIs](https://github.com/Hsxxnil/crm_apis) | `Golang` `Gin` `Gorm` `PostgreSQL` `RESTful`|
 | PMIP Backend | [Gantt APIs](https://github.com/Hsxxnil/gantt_apis) | `Golang` `Gin` `Gorm` `PostgreSQL` `RESTful` `RBAC` `Casbin` `AWS S3` `SMTP`|
 | FMS Backend | [FMS APIs](https://github.com/Hsxxnil/fms_apis) | `Golang` `Gin` `Gorm` `PostgreSQL` `RESTful` `Google Maps API` `Newebpay API` `IoT`|
-| AI Writer Backend | [AI Writer APIs](https://github.com/Hsxxnil/ai_writer_apis) | `Golang` `Gin` `Gorm` `PostgreSQL` `RESTful` `OpenAI`|
+| AI Writer Backend | [AI Writer APIs](https://github.com/Hsxxnil/ai_writer_apis) | `Golang` `Gin` `Gorm` `PostgreSQL` `RESTful` `OpenAI API`|
 
 ## Skills 💪🏻
 
@@ -27,13 +27,14 @@ Hi there 👋🏻
 ![PrimeNG](https://img.shields.io/badge/-PrimeNG-212C32?style=for-the-badge&logo=primeng&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-00BCFF?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### ☁️ Cloud & Others
+#### ☁️ Cloud, APIs & AI
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
 ![Google Maps API](https://img.shields.io/badge/-Google%20Maps%20API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Newebpay API](https://img.shields.io/badge/-Newebpay%20API-1D2C77?style=for-the-badge&logo=newebpay&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/-YOLOv8-01B5D6?style=for-the-badge&logo=opencv&logoColor=white)
 
-#### 🛠️ Dev Tools & Platforms
+#### 🛠️ Tools & Platforms
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -42,7 +43,6 @@ Hi there 👋🏻
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ## Contact 📫
 
