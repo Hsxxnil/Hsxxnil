@@ -22,6 +22,7 @@ Hi there 👋🏻
 ![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=for-the-badge&logo=gin&logoColor=white)
 ![Gorm](https://img.shields.io/badge/-Gorm-00ADD8?style=for-the-badge&logo=gorm&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![PrimeNG](https://img.shields.io/badge/-PrimeNG-212C32?style=for-the-badge&logo=primeng&logoColor=white)
